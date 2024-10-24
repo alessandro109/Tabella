@@ -1,0 +1,53 @@
+{
+    "nomi": [
+      {
+        "nome": "Riccardo",
+        "cognome": "Bianchi",
+        "età": 22,
+        "indirizzo": "via colera 3",
+        "città": "Garbagnate Milanese",
+        "telefono": [
+          { "numero": 3125673456 },
+          { "numero": 3983657832 }
+        ],
+        "sport": [
+          "canottaggio",
+          "pallanuoto",
+          "baseball"
+        ]
+      },
+      {
+        "nome": "Luca",
+        "cognome": "Rossi",
+        "età": 14,
+        "indirizzo": "via purcesi 9",
+        "città": "Novate Milanese",
+        "telefono": [
+          { "numero": 3146556783 },
+          { "numero": 3980373032 }
+        ],
+        "sport": [
+          "sci",
+          "pallamano",
+          "cricket"
+        ]
+      },
+      {
+        "nome": "Anna",
+        "cognome": "Citti",
+        "età": 16,
+        "indirizzo": "via dei fanti 98",
+        "città": "Pogliano Milanese",
+        "telefono": [
+          { "numero": 3169485054 },
+          { "numero": 3054893320 }
+        ],
+        "sport": [
+          "calcio",
+          "palestra",
+          "getto del peso"
+        ]
+      }
+    ]
+  }
+  
