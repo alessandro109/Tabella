@@ -1,0 +1,27 @@
+{
+    "Nominativi": [
+        {"Nominativo": "Mario Rossi"},
+        {"Nominativo": "Luigi Verdi"},
+        {"Nominativo": "Anna Bianchi"}
+    ],
+    "Posizioni": [
+        {"Posizione": "Project Manager"},
+        {"Posizione": "Sviluppatore Software"},
+        {"Posizione": "Designer"}
+    ],
+    "Esperienze": [
+        {"Esperienza": "5 anni di esperienza in gestione progetti."},
+        {"Esperienza": "3 anni di esperienza in sviluppo front-end e back-end."},
+        {"Esperienza": "4 anni di esperienza in design grafico e UX."}
+    ],
+    "Descrizioni": [
+        {"Descrizione": "Specializzato nella gestione di team e nella pianificazione strategica."},
+        {"Descrizione": "Esperto in linguaggi di programmazione come JavaScript e Python."},
+        {"Descrizione": "Esperto in Adobe Illustrator, Photoshop e UX/UI design."}
+    ],
+    "Immagini": [
+        {"Immagine": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZ6Vw-Br-RRvMstTlTqbeGXw4PNepXRrTzg&s"},
+        {"Immagine": "https://pbs.twimg.com/profile_images/68512960/MP6_Luigi_400x400.jpg"},
+        {"Immagine": "https://magicdreams.store/cdn/shop/files/action-figure-anna-18-cm-frozen-magic-dreams-store.jpg?v=1707292069"}
+    ]
+}
