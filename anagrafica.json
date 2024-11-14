@@ -1,0 +1,42 @@
+{
+    "Nomi": [
+        {"Nome": "Mario"},
+        {"Nome": "Luigi"},
+        {"Nome": "Anna"}
+    ],
+    "Cognomi": [
+        {"Cognome": "Rossi"},
+        {"Cognome": "Verdi"},
+        {"Cognome": "Bianchi"}
+    ],
+    "Eta": [
+        {"Eta": "30"},
+        {"Eta": "25"},
+        {"Eta": "28"}
+    ],
+    "Indirizzi": [
+        {"Indirizzo": "Via Roma, 1"},
+        {"Indirizzo": "Corso Italia, 10"},
+        {"Indirizzo": "Piazza Duomo, 5"}
+    ],
+    "Citta": [
+        {"Citta": "Milano"},
+        {"Citta": "Roma"},
+        {"Citta": "Napoli"}
+    ],
+    "Telefoni": [
+        {"Telefono1": "333-1234567", "Telefono2": "333-7654321"},
+        {"Telefono1": "333-2233445"},
+        {"Telefono1": "333-9876543", "Telefono2": "333-4567890"}
+    ],
+    "Sport": [
+        {"Sport1": "Calcio", "Sport2": "Tennis"},
+        {"Sport1": "Nuoto"},
+        {"Sport1": "Pallavolo", "Sport2": "Basket"}
+    ],
+    "Immagini": [
+        {"Immagine": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZ6Vw-Br-RRvMstTlTqbeGXw4PNepXRrTzg&s"},
+        {"Immagine": "https://pbs.twimg.com/profile_images/68512960/MP6_Luigi_400x400.jpg"},
+        {"Immagine": "https://magicdreams.store/cdn/shop/files/action-figure-anna-18-cm-frozen-magic-dreams-store.jpg?v=1707292069"}
+    ]
+}
